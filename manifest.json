@@ -1,0 +1,16 @@
+{
+  "name": "ARchitecture Knowledge Management",
+  "short_name": "dev.ARchitecture",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "we make our technical knowledge together!",
+  "theme_color": "#ecf8f2",
+  "icons": [
+    {
+      "src": "dev-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
